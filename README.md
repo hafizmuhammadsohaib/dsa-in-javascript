@@ -37,3 +37,12 @@ This repository is implemented in: Javascript
    Prepare for coding interviews
    Practice clean code with comments
    Strengthen problem-solving skills
+
+🤝 Contributing
+
+Contributions, issues, and improvements are welcome!
+Feel free to open a pull request.
+
+⭐ Show Support
+
+If you find this helpful, please star ⭐ the repo to support the project!
