@@ -20,12 +20,12 @@ All implementations are written from scratch, focusing on logic, time complexity
 12. Graph traversal
 13. Sorting Algorithms
     Basic Sorting
-          Bubble Sort
-          Selection Sort
-          Insertion Sort
+    Bubble Sort
+    Selection Sort
+    Insertion Sort
     Intermediate Sorting
-          Merge Sort
-          Quick Sort
+    Merge Sort
+    Quick Sort
 
 🛠️ Tech Stack / Language
 
